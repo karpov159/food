@@ -1,6 +1,4 @@
 function cards() {
-    // Itimes
-
     const parentItem = document.querySelector('.menu__field'),
           container = parentItem.querySelector('.container');
 
